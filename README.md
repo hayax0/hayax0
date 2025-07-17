@@ -2,7 +2,7 @@
 
 Olá! Eu sou **Caio Campos** — um desenvolvedor (quase fullstack) apaixonado por tecnologia, design de interfaces e segurança digital.
 
-🎓 Formado pelo curso técnico de Desenvolvimento de Sistemas no **Colégio José Leite Lopes (NAVE)**, e atualmente cursando **Engenharia de Software no CEFET/RJ**, venho atuando no desenvolvimento de aplicações web modernas e responsivas, sempre priorizando **usabilidade**, **performance** e **boas práticas** de código.
+🎓 Formado pelo curso técnico de Desenvolvimento de Sistemas no **Colégio José Leite Lopes (NAVE)**, e atualmente cursando **Engenharia de Software**, venho atuando no desenvolvimento de aplicações web modernas e responsivas, sempre priorizando **usabilidade**, **performance** e **boas práticas** de código.
 
 Também possuo um conhecimento intermediário em **segurança de redes**, buscando aplicar princípios de segurança e boas práticas no desenvolvimento e na configuração de ambientes e aplicações web.
 
