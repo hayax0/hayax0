@@ -6,7 +6,7 @@
 ---
 
 ##  Sobre mim  
-Sou **Caio Campos**, apaixonado por tecnologia, design de interfaces e segurança digital.  
+Sou apaixonado por tecnologia, design de interfaces e segurança digital.  
 Transformo conceitos em código para criar **experiências digitais memoráveis**, com foco em **usabilidade, performance e boas práticas de desenvolvimento**.  
 
  **Formação técnica em Desenvolvimento de Sistemas** pelo Colégio José Leite Lopes (NAVE)  
