@@ -32,7 +32,7 @@ Transformo conceitos em código para criar **experiências digitais memoráveis*
 ---
 
 ##  Formações  
-- **Engenharia de Software (Bacharelado)** – UVA (2025/03 – 1º período, em andamento)  
+- **Engenharia de Software (Bacharelado)** – UVA (2025/07 – 1º período, em andamento)  
 - **Desenvolvedor Web** – Colégio José Leite Lopes (NAVE) (2022/01 – 2024/11, concluído)  
 
 ## 📜 Certificações  
