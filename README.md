@@ -1,47 +1,74 @@
-# 👨‍💻 Sobre mim
-
-Olá! Eu sou **Caio Campos** — um desenvolvedor (quase fullstack) apaixonado por tecnologia, design de interfaces e segurança digital.
-
-🎓 Formado pelo curso técnico de Desenvolvimento de Sistemas no **Colégio José Leite Lopes (NAVE)**, e atualmente cursando **Engenharia de Software**, venho atuando no desenvolvimento de aplicações web modernas e responsivas, sempre priorizando **usabilidade**, **performance** e **boas práticas** de código.
-
-Também possuo um conhecimento intermediário em **segurança de redes**, buscando aplicar princípios de segurança e boas práticas no desenvolvimento e na configuração de ambientes e aplicações web.
+<h1 align="center">👨‍💻 Caio Campos</h1>
+<p align="center">
+  <b>Desenvolvedor Web | Estudante de Engenharia de Software | Entusiasta em Segurança Digital</b>
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Sobre mim  
+Sou **Caio Campos**, apaixonado por tecnologia, design de interfaces e segurança digital.  
+Transformo conceitos em código para criar **experiências digitais memoráveis**, com foco em **usabilidade, performance e boas práticas de desenvolvimento**.  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+ **Formação técnica em Desenvolvimento de Sistemas** pelo Colégio José Leite Lopes (NAVE)  
+ **Graduando em Engenharia de Software** – UVA  
 
 ---
 
-## 💡 O que eu faço
+## 🛠️ Tecnologias e Ferramentas  
 
-- Criação de interfaces web modernas, acessíveis e responsivas  
-- Desenvolvimento de aplicações utilizando tecnologias atuais  
-- Integração de APIs e desenvolvimento de funcionalidades backend  
-- Aplicação de boas práticas de **segurança em redes e aplicações web**  
-- Foco em performance, segurança e experiência do usuário  
-
----
-
-## 📈 Em constante evolução
-
-Estou sempre aprendendo e acompanhando as tendências do setor para desenvolver experiências digitais que realmente façam a diferença. Busco inovação e eficiência em cada projeto que coloco em prática.
-
----
-
-## 📫 Vamos conectar!
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ds-campos)
-- 📧 caiocampos1009@gmail.com  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&logoWidth=25"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&logoWidth=25"/>
+</p>
 
 ---
 
-### ⭐ Obrigado por visitar meu perfil!
+##  Formações  
+- **Engenharia de Software (Bacharelado)** – UVA (2025/03 – 1º período, em andamento)  
+- **Desenvolvedor Web** – Colégio José Leite Lopes (NAVE) (2022/01 – 2024/11, concluído)  
+
+## 📜 Certificações  
+- Curso **Liderança e Empreendedorismo** – UVA (2025/08 – em andamento)  
+- Curso **CS50’s Introduction to Computer Science** (2025/02 – em andamento)  
+- **Machine Learning (Google Developers)** (2024/03 – 2025/05, concluído)  
+- **Cibersegurança (CISCO)** (2025/02 – 2025/06, concluído)  
+
+---
+
+##  O que eu faço  
+✔️ Criação de **interfaces web modernas, acessíveis e responsivas**  
+✔️ Desenvolvimento de **aplicações web fullstack**  
+✔️ Integração de **APIs e sistemas backend**  
+✔️ Aplicação de **boas práticas de segurança em redes e aplicações**  
+✔️ Foco em **performance, segurança e experiência do usuário**  
+
+---
+
+## Em constante evolução  
+Sempre em busca de **novos aprendizados e tendências**, visando desenvolver soluções digitais que realmente façam diferença.  
+Inovação e eficiência são meus principais guias em cada projeto que construo.  
+
+---
+
+##  Meus contatos  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caio-ds-campos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:caiocampos1009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-caiocampos1009%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
