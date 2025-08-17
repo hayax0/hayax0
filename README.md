@@ -14,7 +14,7 @@ Transformo conceitos em código para criar **experiências digitais memoráveis*
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+##  Tecnologias e Ferramentas  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&logoWidth=25"/>
