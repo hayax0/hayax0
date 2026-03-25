@@ -2,7 +2,7 @@
   <tr>
     <td width="60%">
       <h1>Olá, me chamo Caio Campos! </h1>
-      <p>Atuo como <b>Desenvolvedor Full Stack Web</b>.</p>
+      <p> No momento atuo como <b>Desenvolvedor Full Stack Web</b>.</p>
       <p>Gosto de transformar dados em interfaces intuitivas e escaláveis, e de integrar backend e frontend em soluções reais que geram impacto.</p>
     </td>
     <td width="40%">
