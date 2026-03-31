@@ -1,16 +1,12 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Olá, me chamo Caio Campos! </h1>
-      <p> No momento atuo como <b>Desenvolvedor Full Stack Web</b>.</p>
-      <p>Gosto de transformar dados em interfaces intuitivas e escaláveis, e de integrar backend e frontend em soluções reais que geram impacto.</p>
-    </td>
-    <td width="40%">
-      <img src="https://github.com/user-attachments/assets/ff00d59e-0ed7-4fc3-b553-721a72bf3451" width="350px" alt="Al Pacino Scarface GIF by Filmin"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github.com/user-attachments/assets/ff00d59e-0ed7-4fc3-b553-721a72bf3451" width="300" alt="Al Pacino Scarface GIF by Filmin"/>
 
+# Olá, me chamo Caio Campos!
+
+No momento atuo como **Desenvolvedor Full Stack Web**.
+
+Gosto de transformar dados em interfaces intuitivas e escaláveis, e de integrar backend e frontend em soluções reais que geram impacto.
+
+<br clear="both">
 <br>
 
 ## 🎓 Formação Acadêmica
@@ -50,7 +46,7 @@ Plataforma de inteligência financeira que consolida dados de múltiplas fontes 
 Aplicativo móvel de saúde e bem-estar que utiliza algoritmos de aprendizado de máquina (IA) para prescrever treinos e dietas personalizados. Features incluem análise de progresso preditiva e chat interativo com assistente de IA.
 
 ### **devfolio**
-Portfólio pessoal e plataforma de vitrine de projetos, construído com foco em SEO, acessibilidade e performance máxima. Serve como vitrine para os seus melhores trabalhos e currículo digital.
+Projeto focado na geração de portfólios de forma prática. Construído com foco em SEO, acessibilidade e performance máxima, serve como uma ferramenta para desenvolvedores e profissionais criarem suas vitrines de projetos e currículos digitais.
 
 ---
 
