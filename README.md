@@ -54,16 +54,6 @@ Portfólio pessoal e plataforma de vitrine de projetos, construído com foco em 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-### GitHub Readme Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hayax0&show_icons=true&theme=calm&include_all_commits=true&count_private=true" alt="Caio's GitHub Stats" />
-
-### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayax0&theme=calm&layout=compact" alt="Caio's Top Languages" />
-
----
-
 ## Softskills
 
 * Comunicação eficaz (em português e inglês)
