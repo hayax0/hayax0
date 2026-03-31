@@ -50,7 +50,7 @@ Plataforma de inteligência financeira que consolida dados de múltiplas fontes 
 Aplicativo móvel de saúde e bem-estar que utiliza algoritmos de aprendizado de máquina (IA) para prescrever treinos e dietas personalizados. Features incluem análise de progresso preditiva e chat interativo com assistente de IA.
 
 ### **devfolio**
-Portfólio pessoal e plataforma de vitrine de projetos, construído com foco em SEO, acessibilidade e performance máxima. Serve como vitrine para meus melhores trabalhos e currículo digital.
+Portfólio pessoal e plataforma de vitrine de projetos, construído com foco em SEO, acessibilidade e performance máxima. Serve como vitrine para os seus melhores trabalhos e currículo digital.
 
 ---
 
