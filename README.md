@@ -29,7 +29,7 @@ Gosto de transformar dados em interfaces intuitivas e escaláveis, e de integrar
 
 <p align="center">
   <strong>🛠️ Tools & Systems</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,windows" alt="Ferramentas e Sistemas" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,docker,windows" alt="Ferramentas e Sistemas" />
 </p>
 
 ---
