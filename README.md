@@ -10,27 +10,27 @@ Gosto de transformar dados em interfaces intuitivas e escaláveis, e de integrar
 
 * **Engenharia de Software** | Universidade Veiga de Almeida (UVA)
   * *Status: Cursando (2º período)*
-* **Técnico em Desenvolvimento de Sistemas** | Colégio Estadual José Leite Lopes (NAVE)
+* **Técnico em Desenvolvimento de Sistemas** | Colégio Estadual José Leite Lopes (NAVE - RIO)
   * *Status: Concluído*
 
 ---
 
 ## 💻 Hardskills (Habilidades Técnicas)
 
-### Frontend
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35"/> |
+<p align="center">
+  <strong>🧠 Languages & Technologies</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nextjs,nodejs,java,spring" alt="Linguagens e Tecnologias" />
+</p>
 
-### Backend & Linguagens
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> |
+<p align="center">
+  <strong>🗄️ Database & Data</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase" alt="Bancos de Dados e Dados" />
+</p>
 
-### Bancos de Dados & Ferramentas
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"/> |
+<p align="center">
+  <strong>🛠️ Tools & Systems</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker,windows" alt="Ferramentas e Sistemas" />
+</p>
 
 ---
 
