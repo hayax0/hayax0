@@ -43,7 +43,7 @@ Plataforma Full Stack de monitoramento de criptoativos em tempo real. Utiliza um
 Plataforma de inteligência financeira que consolida dados de múltiplas fontes para gerar sinais de investimento e análises de mercado precisas. Utiliza arquitetura orientada a eventos para alta performance.
 
 ### **FitAI**
-Aplicativo móvel de saúde e bem-estar que utiliza algoritmos de aprendizado de máquina para prescrever treinos e dietas personalizados via Gemini API.
+"Saas" de saúde e bem-estar que utiliza algoritmos de aprendizado de máquina para prescrever treinos e dietas personalizados via Gemini API.
 
 ### **devfolio**
 Ferramenta focada na geração automática de portfólios para desenvolvedores, com foco total em SEO e performance.
